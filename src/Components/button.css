@@ -7,5 +7,12 @@
 
 
 .card_button {
-    color: blue;
+    border: none;
+    background: none;
+    padding: 0;
+    color: #5050ff;
+    font-weight: bold;
+    font-family: Arial,sans-serif;
+    font-size: 0.9rem;
+    cursor: pointer;
 }
